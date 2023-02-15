@@ -8,7 +8,7 @@ a {
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #00FFFF;
   text-decoration: none;
 }
 
@@ -529,7 +529,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a + a {
-  border-left: 1px solid #37b3ed;
+  border-left: 1px solid #00FFFF;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -853,7 +853,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #37b3ed;
+  background: #00FFFF;
 }
 
 @-webkit-keyframes animate-loading {
