@@ -2,7 +2,11 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
 }
-
+.dollar
+{
+  font-size: 50px;
+  font-style: normal;
+}
 a {
   color: #149ddd;
 }
