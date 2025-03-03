@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   color: #a8a9b4;
-  padding: 7px 15px;
+  padding: 5px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
   font-size: 15px;
@@ -252,7 +252,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   position: absolute;
   /* left: 45px; */
-  bottom: 10px;
+  bottom: 2px;
   /* width: 160px; */
   z-index: 9999;
   /* background: #040b14; */
