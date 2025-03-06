@@ -54,7 +54,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 5px auto;
   display: block;
   width: 140px;
-  border: 4px solid #071d3a;
+/*   border: 4px solid #071d3a; */
+  border: 4px solid #fff;
 }
 
 #header .profile h1 {
@@ -219,7 +220,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   bottom: 15px;
   /* left: 50%; */
-  transform: translateX(-50%);
+  transform: translateX(-40%);
   /* display: flex; */
   /* gap: 15px; */
   z-index: 10;
