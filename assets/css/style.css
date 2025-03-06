@@ -126,7 +126,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
-  color: #149ddd;
+/*   color: #149ddd; */
+  color: #fff;
 }
 
 /* Mobile Navigation */
@@ -226,14 +227,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .profile .social-links a {
-  font-size: 20px;
-  display: inline-block;
+  font-size: 22px;
+/*   display: inline-block; */
   background: #212431;
   color: #fff;
   line-height: 1;
   padding: 2px 0;
   margin-right: 4px;
-  border-radius: 50%;
+/*   border-radius: 50%; */
   text-align: center;
   width: 26px;
   height: 26px;
@@ -241,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .profile .social-links a:hover {
-  background: #149ddd;
+/*   background: #149ddd; */
   color: #fff;
   text-decoration: none;
 }
